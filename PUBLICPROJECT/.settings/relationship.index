@@ -4,9 +4,5 @@
     "version" : "0.1",
     "type" : "job"
   },
-  "relatedItems" : [ {
-    "id" : "_rWfXSxGmEe22yKPgmp9TmQ",
-    "version" : "Latest",
-    "type" : "property"
-  } ]
+  "relatedItems" : [ ]
 } ]
