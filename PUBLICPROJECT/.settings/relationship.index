@@ -5,12 +5,8 @@
     "type" : "job"
   },
   "relatedItems" : [ {
-    "id" : "_8gzHgC7eEeaZ-pN5zCZKlQ",
+    "id" : "_rWfXSxGmEe22yKPgmp9TmQ",
     "version" : "Latest",
     "type" : "property"
-  }, {
-    "id" : "_8gzHgC7eEeaZ-pN5zCZKlQ - factsales",
-    "version" : "Latest",
-    "type" : "schema"
   } ]
 } ]
