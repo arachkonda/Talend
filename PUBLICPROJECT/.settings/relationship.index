@@ -5,10 +5,6 @@
     "type" : "job"
   },
   "relatedItems" : [ {
-    "id" : "built-in",
-    "version" : "Latest",
-    "type" : "context"
-  }, {
     "id" : "_8gzHgC7eEeaZ-pN5zCZKlQ",
     "version" : "Latest",
     "type" : "property"
